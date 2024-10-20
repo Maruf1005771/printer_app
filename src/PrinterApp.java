@@ -3,9 +3,9 @@ public class PrinterApp {
     
         String creator = " Md Maruf";
 
-        int number1 = 5;
+        int number1 = 10;
 
-        int number2 = 2;
+        int number2 = 7;
 
         int multiplication;
 
